@@ -19,8 +19,7 @@ A blog app built with django api for backend and reactjs for frontend.
 ## Backend API
     Open backend folder README for installation and instructions for Django API.
 
-## Contribution
-- Fork and clone the repo.  
+## Contribution 
 - To avoid merge conflicts, make sure to set upstream in your git.
     ```
     git remote add upstream https://github.com/ExpressHermes/Blog-API.git
