@@ -41,9 +41,7 @@ A blog app built with django api for backend and reactjs for frontend.
     git push origin <feature-name>
     ```
 
-- If you see any bug or you have a feature suggestion, create an issue.
-- Start working on an issue only after it has been approved by the maintainer.
-- Wait till the end of the day to get the reply on an issue or review of a PR.
+
 
 
 
